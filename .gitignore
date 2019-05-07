@@ -2,4 +2,9 @@
 .DS_Store
 
 # Other
+/Server/.bin
+/Server/.gcloudignore
+
+# Project
+/Server/.env
 /Constants.swift

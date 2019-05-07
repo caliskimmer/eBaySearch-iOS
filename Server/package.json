@@ -1,0 +1,28 @@
+{
+  "name": "homework8-caliskimmer",
+  "version": "1.0.0",
+  "description": "CSCI571 homework8",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/compiler": "^7.2.10",
+    "bootstrap": "^4.3.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usc-csci571/homework8-caliskimmer.git"
+  },
+  "author": "Matas Empakeris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usc-csci571/homework8-caliskimmer/issues"
+  },
+  "homepage": "https://github.com/usc-csci571/homework8-caliskimmer#readme"
+}
